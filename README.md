@@ -1,11 +1,12 @@
 # Quantitative-Finance
-
+This repo includes
+  + C++   
 
 ## Contants
 
-|Chapter|Lecture Note|Code||
+|Chapter|Note|Code||
 |---|---|---|---|
-|Chapter2 (Basic Building Bliocks)|-|-|-|
+|Chapter2 (Basic Building Bliocks)|[Note](https://github.com/joomong/Quantitative-Finance/tree/main/Chapter2)|-|-|
 |-|-|-|-|
 |-|-|-|-|
 
