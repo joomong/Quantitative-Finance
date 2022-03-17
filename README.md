@@ -6,7 +6,7 @@ This repo includes
 
 |Chapter|Note|Code||
 |---|---|---|---|
-|Chapter2 (Basic Building Bliocks)|[Note](https://github.com/joomong/Quantitative-Finance/tree/main/Chapter2)|-|-|
+|Chapter2 (Basic Building Bliocks)|[Note](https://github.com/joomong/Quantitative-Finance/blob/main/Chapter2/Chapter%202%20.pdf)|-|-|
 |-|-|-|-|
 |-|-|-|-|
 
